@@ -1,2 +1,2 @@
 # ML-Big-data
-ML algorithms, CNN, NLP, Web scraping, PySpark, SparkSQL, TensorFlow
+Regression and Classification algorithms, CNN, NLP, Web scraping, PySpark, SparkSQL, TensorFlow
